@@ -1,0 +1,184 @@
+Initial semaphore values: mutex = 1, empty = 100, full = 0
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+
+
+
+About to enter consumer's critical section
+Use an item and send back the empty
+Leaving consumer's critical section
+
+
+
+Final semaphore values: mutex = 1, empty = 100, full = 0
+Initial semaphore values: mutex = 1, empty = 100, full = 0
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+
+
+
+About to enter producer's critical section
+Make an item and send it to the consumer in a full container
+Leaving producer's critical section
+
+
+
+Final semaphore values: mutex = 1, empty = 100, full = 0
